@@ -1,0 +1,14 @@
+div.container {margin-left: 30%;margin-top: 10%;}
+header {margin-left: 35%;}
+div.header {font-family: cursive;}
+.container .header .fecha {margin-left: 50%;}
+div.segundacaja {margin-right: 50%;margin-top: 15%;}
+.segundacaja .segundadesc {margin-left: 15%;margin-top: 1%;}
+div.terceracaja {margin-right: 10%;margin-top: 30%;}
+.segundacaja .segundafecha {margin-left: 100%;}
+.terceracaja .tercerafecha {margin-left: 112%;}
+div.cuartacaja {margin-right: 30%;margin-top: 31%;}
+.cuartacaja .cuartafecha {margin-left: 160%;}
+.cuartacaja .cuartaimg {width: -50%;}
+
+
